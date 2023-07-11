@@ -2,9 +2,9 @@
   "name": "bkash-sdk-rezaul",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js.js",
+  "main": "src/function/index.js.js",
   "scripts": {
-    "start": "nodemon src/index.js"
+    "start": "nodemon src/function/index.js"
   },
   "keywords": [],
   "author": "",
