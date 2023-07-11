@@ -1,0 +1,5 @@
+function Bkash() {
+    return {
+        init: () => {},
+    };
+}
